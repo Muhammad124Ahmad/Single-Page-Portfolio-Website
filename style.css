@@ -25,6 +25,8 @@ body {
 
 .topmenu:hover {
   color: white;
+  font-weight: bolder;
+  text-decoration: underline;
   /* Add the styles here */
 }
 
@@ -36,6 +38,8 @@ body {
 .profile_name {
   float: left;
   padding-left: 2cm;
+  font-size: 25px;
+  color: beige;
   /* Add the styles here */
 }
 
@@ -89,6 +93,7 @@ h2 {
 .about-me {
   display: flex;
   align-items: center;
+  
 }
 
 #about-me h1 {
